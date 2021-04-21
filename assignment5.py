@@ -70,5 +70,5 @@ while option != 'Q':
     else:
         print("Invalid option")
 
-    options()
+    #options()
     option = input("option :")
