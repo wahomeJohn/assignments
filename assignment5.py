@@ -9,14 +9,7 @@ def options():
     print("[Q]")
 
 def PrintOptions():
-    print("[P] Print Options")
-    print("[C] convert from celsius")
-    print("[F] Covert from Fahrenheit")
-    print("[M] Convert from Miles")
-    print("[KM] Convert from Kilometers")
-    print("[In] Convert from Inches")
-    print("[CM] Convert from centimeters")
-    print("[Q]")
+    options()
 
 options()
 option = input("option :")
